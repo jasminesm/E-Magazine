@@ -1,14 +1,30 @@
 <!DOCTYPE html>
 <html lang="en">
+<style>
+    html{
+        background-image:url("https://ak.picdn.net/shutterstock/videos/1011665087/thumb/1.jpg");
+        background-size:cover;
+        background-repeat:no-repeat;
+    }
+</style>
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
+<header>
+	<div class="navbar">
+		<img src="./assets/images/Logo E-Magazine.jpg" alt="" width="120" height="100">
+    <ul>
+		<li><a href="index.php">HOME</a></li>
+		<li><a href="about-us.php">ABOUT US</a></li>
+	</ul>
+  </div>
+</header>
 <body>
-TIPS MENJAGA KESEHATAN <br>
-    <img src="img/images.jfif" width="250"> <br>
+    <h1>TIPS MENJAGA KESEHATAN </h1><br>
+    <img src="img/virus.jfif" width="450" height="300"> <br>
     
     Kesehatan merupakan harta yang tak ternilai harganya. Sering sekali cara yang dilakukan menghabiskan banyak biaya
     dan bahkan juga tak jarang menabrak aneka norma dan logika Tetapi, sebenarnya untuk tetap sehat tidaklah sulit, dan
@@ -38,4 +54,5 @@ TIPS MENJAGA KESEHATAN <br>
     menjaga tubuhnya agar tidak mudah sakit, olahraga itu bisa digunakan untuk melancarkan peredaran darah serta
     membakar lemak yang ada di dalam tubuh. <br>
 </body>
+
 </html>

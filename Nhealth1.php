@@ -1,14 +1,30 @@
 <!DOCTYPE html>
 <html lang="en">
+<style>
+    html{
+        background-image:url("https://ak.picdn.net/shutterstock/videos/1011665087/thumb/1.jpg");
+        background-size:cover;
+        background-repeat:no-repeat;
+    }
+</style>
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
+<header>
+	<div class="navbar">
+		<img src="./assets/images/Logo E-Magazine.jpg" alt="" width="120" height="100">
+    <ul>
+		<li><a href="index.php">HOME</a></li>
+		<li><a href="about-us.php">ABOUT US</a></li>
+	</ul>
+  </div>
+</header>
 <body>
-SYARAT PENERIMAAN VAKSIN
-    <div><img src="img/vaks.jfif" width="250"></div> <br>
+ <h1>SYARAT PENERIMAAN VAKSIN</h1>
+    <div><img src="img/vaks.jfif" width="250" height="150"></div> <br>
 
     Proses vaksinasi untuk menekan penyebaran Covid-19 sudah dimulai dengan Presiden Joko Widodo sebagai orang pertama
     yang menerima vaksin corona. Saat ini, vaksin yang didistribusikan di Indonesia adalah Sinovac, AstraZeneca, dan
@@ -38,4 +54,5 @@ SYARAT PENERIMAAN VAKSIN
     d. Sudah pernah menerima vaksin Covid-19 sebelumnya <br>
     
 </body>
+
 </html>
